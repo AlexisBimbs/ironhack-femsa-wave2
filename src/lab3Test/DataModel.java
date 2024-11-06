@@ -1,4 +1,4 @@
-package test;
+package lab3Test;
 
 public class DataModel {
     private String data;

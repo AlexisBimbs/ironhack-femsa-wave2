@@ -10,7 +10,7 @@
   - Configuraremos S3 para estos archivos sean consumidos a través de una CDN como Amazon CloudFront para mejorar la velocidad de carga de la aplicacion.
   - Configuraremos una VPC para aislar nuestra infraestructura en la nube y controlar el acceso a los recursos tales como la data sensible en las bases de datos.
 
-    > ![Diagrama](laboratorio11.png)
+    > ![Diagrama](laboratorio11.jpg)
 
 
     

@@ -49,3 +49,5 @@ Plan detallado para migrar la aplicacion monolitica de comercio electronico a un
   - Implementar un CI/CD para abordar la implementacion de nuevas funciones sin afectar las funcionalidades existentes.
   - Implementar herramientas de monitorizacion para recopilar datos sobre el rendimiento y el comportamiento de los microservicios, de tal manera que
     podamos identificar y optimizar la arquitectura en el futuro.
+
+    ![image info](lab9.drawio.png)
